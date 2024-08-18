@@ -11,7 +11,7 @@ A decentralized voting application built with React, `ethers.js`, and styled wit
 
 ![UI-1](https://coffee-closed-narwhal-255.mypinata.cloud/ipfs/QmderGJJYXFbAiYrsU2xtjnaAVjMnyjCVXTuaMjwHM37HN)
 
-![UI-2]()
+![UI-2](https://coffee-closed-narwhal-255.mypinata.cloud/ipfs/Qmbu5AHYKFEaRiFKU2PB9BjhQhZpWaErNQZZihJhjLYaNb)
 
 ## Setup
 
