@@ -9,7 +9,7 @@ A decentralized voting application built with React, `ethers.js`, and styled wit
 
 ## UI Images
 
-![UI-1](https://drive.google.com/file/d/10TEJSXv-LWtcC5Ep0hF2m_CTon0lTC6R/view)
+![UI-1](https://coffee-closed-narwhal-255.mypinata.cloud/ipfs/QmderGJJYXFbAiYrsU2xtjnaAVjMnyjCVXTuaMjwHM37HN)
 
 ![UI-2]()
 
